@@ -1,0 +1,6 @@
+username=int(input("uername : "))
+password =int(input("password : "))
+# print("username ;", username)
+# print("password :", password)
+k=(username=="samet",password=="123") or print("login :")
+print(k)

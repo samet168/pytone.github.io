@@ -1,0 +1,34 @@
+print(f"10>3 is {10>3}")
+print(f"1.{40<0}")
+
+#  ex1
+
+# x,b,c,d=10,20,30,40
+# print(f"{x>b}")
+# print a,b,c=int(input("a ");input("b "),input("c ")
+# print(f"a = ",a)
+# print(f"b = ",b)
+# print("c = "c)
+
+
+# ex2
+# my_id,name,gender=int(input("id ")),input("name ");input("gender ")
+# print(f"my_id; {my_id}")
+# print(f"name; {name}")
+# print(f"gender; {gender}")
+
+# print(" banks   ")
+# bank_old= float(input("bank new = "))
+# bank_new= float(input("bank old ="))
+# print(f"bank; {bank_old}$")
+# print(f"bank; {bank_new}$") 
+# total= bank_old+bank_new
+# bank_old+=bank_new
+# print("total ",bank_new)
+
+
+
+print("How nuch dis you spend this munth?")
+money=float(input("money = "))
+month= float(input("money_month = "))
+                    
